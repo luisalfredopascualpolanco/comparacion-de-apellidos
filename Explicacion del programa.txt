@@ -1,0 +1,5 @@
+Explicacion del programa:
+
+Es una app de consola 
+
+Solicitar el ingreso de dos apellidos. Mostrar un mensaje si son iguales o distintos.

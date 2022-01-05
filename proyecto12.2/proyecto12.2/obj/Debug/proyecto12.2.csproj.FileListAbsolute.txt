@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\comparacion-de-apellidos\proyecto12.2\proyecto12.2\bin\Debug\proyecto12.2.exe.config
+D:\Programas\Cursos\C# ya\comparacion-de-apellidos\proyecto12.2\proyecto12.2\bin\Debug\proyecto12.2.exe
+D:\Programas\Cursos\C# ya\comparacion-de-apellidos\proyecto12.2\proyecto12.2\bin\Debug\proyecto12.2.pdb
+D:\Programas\Cursos\C# ya\comparacion-de-apellidos\proyecto12.2\proyecto12.2\obj\Debug\proyecto12.2.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\comparacion-de-apellidos\proyecto12.2\proyecto12.2\obj\Debug\proyecto12.2.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\comparacion-de-apellidos\proyecto12.2\proyecto12.2\obj\Debug\proyecto12.2.exe
+D:\Programas\Cursos\C# ya\comparacion-de-apellidos\proyecto12.2\proyecto12.2\obj\Debug\proyecto12.2.pdb
